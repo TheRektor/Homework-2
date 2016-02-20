@@ -14,12 +14,12 @@ body{
     line-height: 1.5;
 }
 #navigation {
-    margin: 0px;
+    margin-bottom: 40px;
     padding: 0px;
     list-style: none;
-    width:965px;
+    width:1060px;
     height:40px;
-     background-color: #bababa;
+     background-color:#515151;
     
 }
 #navigation li {
@@ -28,8 +28,9 @@ float: left;
     position: relative;
     padding-left:88px;
     text-shadow:1px 1px 2px black;
-    font-size: 20px;
-    margin-top:3px;
+    font-size: 16px;
+    margin-top:7px;
+    font-family:serif;
 }
 A {
     color:white;
@@ -42,4 +43,41 @@ A {
 }
 a{
     text-decoration: none;
+}
+.logo{
+    margin-bottom:20px;
+}
+
+.leftpanel{
+    width:216px;
+    height:10px;
+    border-top:1px solid #c8c8c8;
+    border-right:1px solid #c8c8c8;
+    border-left: 1px solid #c8c8c8;
+    padding-left:24px;
+    padding-top: 7px;
+    padding-bottom:23px;
+    color:grey;
+}
+#lastpanel{
+    border: 1px solid #c8c8c8;
+    width:216px;
+    height:10px;
+    padding-left:24px;
+    padding-top: 7px;
+    padding-bottom:23px;
+    color:grey;
+}
+
+#thirdpanel{
+    border-top:1px solid #c8c8c8;
+    border-right:1px solid #c8c8c8;
+    border-left: 1px solid #c8c8c8;
+    width:206px;
+    height:10px;
+    background-color: #f9f9f9;
+    padding-left:34px;
+    padding-top: 7px;
+    padding-bottom:23px; 
+   
 }
