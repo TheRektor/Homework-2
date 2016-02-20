@@ -1,0 +1,14 @@
+
+}
+.global{
+    align-self: center;
+    width: 600px;
+    height: 920px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: white;
+    padding:40px 80px 40px 80px;
+    box-shadow:-1px 0px 4px 0px rgba(0, 0, 0, 0.65);
+    margin: auto;
+    line-height: 1.5;
+}
