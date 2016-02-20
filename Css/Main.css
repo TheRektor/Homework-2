@@ -1,5 +1,5 @@
 body{
-    background-color:"#f9f9f9";
+    background-color: #f9f9f9;
 }
 .global{
     align-self: center;
@@ -8,8 +8,22 @@ body{
     margin-left: 40px;
     margin-right: 40px;
     background-color: white;
-    padding:52px 46px 60px 46px;
+    padding:50px 46px 60px 50px;
     box-shadow:-1px 0px 4px 0px rgba(0, 0, 0, 0.65);
     margin: auto;
     line-height: 1.5;
+}
+ul#navigation {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    width:965px;
+    height:40px;
+    
+}
+ul#navigation li {
+    display:inline;
+}
+ul#navigation{
+ background-color: #bababa;
 }
