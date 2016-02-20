@@ -13,17 +13,33 @@ body{
     margin: auto;
     line-height: 1.5;
 }
-ul#navigation {
+#navigation {
     margin: 0px;
     padding: 0px;
     list-style: none;
     width:965px;
     height:40px;
+     background-color: #bababa;
     
 }
-ul#navigation li {
-    display:inline;
+#navigation li {
+float: left;
+    display:block;
+    position: relative;
+    padding-left:88px;
+    text-shadow:1px 1px 2px black;
+    font-size: 20px;
+    margin-top:3px;
 }
-ul#navigation{
- background-color: #bababa;
+A {
+    color:white;
+   }
+   A:visited {
+    color: white;
+   }
+   A:active {
+    color:white;
+}
+a{
+    text-decoration: none;
 }
