@@ -22,15 +22,26 @@ body{
      background-color:#515151;
     
 }
+.sells:nth-child(2){
+    background-color: #3d3d3d;
+    border-left:1px solid grey;
+    border-right:1px solid grey;
+    padding-top:5px;
+}
+
 #navigation li {
-float: left;
+    float: left;
     display:block;
     position: relative;
-    padding-left:88px;
     text-shadow:1px 1px 2px black;
     font-size: 16px;
-    margin-top:7px;
     font-family:serif;
+    text-align: center;
+    height: 33px;
+    width: 100px;
+    margin: 0px;
+    padding-top: 5px;
+    margin-right: 40px;
 }
 A {
     color:white;
@@ -82,7 +93,41 @@ a{
    
 }
 .bike{
-    position:absolute;
-    left:760px;
-    bottom: 415px;
+    position:relative;
+    left:295px;
+    bottom: 245px;
 }
+
+.text{
+    position:relative;
+    left:315px;
+    bottom: 225px;
+    width:630px;
+    font-size: 13px;
+    color: 2c2c2c;
+    line-height: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
