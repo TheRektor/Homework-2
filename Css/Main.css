@@ -3,7 +3,7 @@ body{
 }
 .global{
     align-self: center;
-    width: 1060px;
+    width: 980px;
     height: 950px;
     margin-left: 40px;
     margin-right: 40px;
@@ -17,7 +17,7 @@ body{
     margin-bottom: 40px;
     padding: 0px;
     list-style: none;
-    width:1060px;
+    width:975px;
     height:40px;
      background-color:#515151;
     
@@ -80,4 +80,9 @@ a{
     padding-top: 7px;
     padding-bottom:23px; 
    
+}
+.bike{
+    position:absolute;
+    left:760px;
+    bottom: 415px;
 }
